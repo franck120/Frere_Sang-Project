@@ -1,0 +1,6 @@
+@WebApplication1_HostAddress = http://localhost:81
+
+GET {{WebApplication1_HostAddress}}/connect/
+Accept: application/json
+
+###

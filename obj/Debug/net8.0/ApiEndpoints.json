@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "connectController",
+    "Method": "Login",
+    "RelativePath": "connect/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "connect",
+        "Type": "connect",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "registerController",
+    "Method": "register",
+    "RelativePath": "register/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "register",
+        "Type": "register",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
